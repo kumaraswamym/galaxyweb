@@ -33,7 +33,7 @@ public final class Service extends HttpServlet {
         PrintWriter writer = response.getWriter();        
         writer.println("<html>");
         writer.println("<head>");
-        writer.println("<title>Sample Application Servlet Page</title>");
+        writer.println("<title>Sample Web Application Servlet Page</title>");
         writer.println("</head>");
         writer.println("<body bgcolor=white>");
 
